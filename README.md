@@ -1,5 +1,6 @@
 # Day-of-the-week
 Program that displays day of the week that corresponds to a number between 1-7 inclusive
+Constructive criticism welcome, did this in preparation for university intro to programming class. Not sure how to get the program to continue and prompt the user again after a number has been entered, instead of just exiting. 
 
 
 #include <stdio.h>
